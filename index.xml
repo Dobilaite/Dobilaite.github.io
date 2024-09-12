@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://Dobilaite.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Sep 2024 13:50:05 +0300</lastBuildDate>
+    <atom:link href="https://Dobilaite.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mano Hugo Puslapis</title>
+      <link>https://Dobilaite.github.io/posts/mano-hugo-puslapis/</link>
+      <pubDate>Thu, 12 Sep 2024 13:50:05 +0300</pubDate>
+      <guid>https://Dobilaite.github.io/posts/mano-hugo-puslapis/</guid>
+      <description>&lt;p&gt;Čia yra Julijos Dobilaitės naujausias HUGO puslapis.&#xA;Sveiki atvykę!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
